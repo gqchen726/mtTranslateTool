@@ -1,0 +1,12 @@
+baidu:
+  api:
+    url: http://api.fanyi.baidu.com/api/trans/vip/translate
+    requestProperties:
+      query: UTF-8
+      appid: 20201016000590665
+      timeOut: 10000
+      meth: GET
+      securityKey: HcGhEQkE82otdClMM6xu
+    proxy:
+      host: 10.1.27.102
+      port: 8080

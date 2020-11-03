@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mtTranslateTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mtTranslateTool_jar</output-path>
+    <root id="archive" name="mtTranslateTool.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="mtTranslateTool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../mavenRepository/.m2/repository/com/alibaba/fastjson/1.2.21/fastjson-1.2.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../mavenRepository/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
