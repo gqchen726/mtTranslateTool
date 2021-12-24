@@ -1,0 +1,60 @@
+2020-11-03 09:32:25  [ AWT-EventQueue-0:68290644 ] - [ INFO ]  sign:20201016000590665apcforca1604367145643HcGhEQkE82otdClMM6xu
+2020-11-03 09:32:25  [ AWT-EventQueue-0:68290648 ] - [ INFO ]  md5:268c446f6c9143bb0e56f2381f12be6d
+2020-11-03 09:32:25  [ AWT-EventQueue-0:68290648 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=apcforca&from=auto&to=zh&appid=20201016000590665&salt=1604367145643&sign=268c446f6c9143bb0e56f2381f12be6d
+2020-11-03 09:32:26  [ AWT-EventQueue-0:68291178 ] - [ INFO ]  jsonResult:{"from":"pt","to":"zh","trans_result":[{"src":"apcforca","dst":"\u963f\u666e\u798f\u5361"}]}
+2020-11-03 09:32:26  [ AWT-EventQueue-0:68291179 ] - [ INFO ]  trans_result:Trans_Result{dst='阿普福卡', src='apcforca'}
+2020-11-03 10:11:48  [ AWT-EventQueue-0:70653992 ] - [ INFO ]  sign:20201016000590665smart1604369508991HcGhEQkE82otdClMM6xu
+2020-11-03 10:11:48  [ AWT-EventQueue-0:70653993 ] - [ INFO ]  md5:dcbe1232ba09fd768a39bab03c0cb48e
+2020-11-03 10:11:48  [ AWT-EventQueue-0:70653994 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=smart&from=auto&to=zh&appid=20201016000590665&salt=1604369508991&sign=dcbe1232ba09fd768a39bab03c0cb48e
+2020-11-03 10:11:49  [ AWT-EventQueue-0:70654344 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"smart","dst":"\u806a\u660e\u7684"}]}
+2020-11-03 10:11:49  [ AWT-EventQueue-0:70654345 ] - [ INFO ]  trans_result:Trans_Result{dst='聪明的', src='smart'}
+2020-11-03 10:12:14  [ AWT-EventQueue-0:70679672 ] - [ INFO ]  sign:20201016000590665visibled1604369534671HcGhEQkE82otdClMM6xu
+2020-11-03 10:12:14  [ AWT-EventQueue-0:70679673 ] - [ INFO ]  md5:8f9285f03cc4f68e063c2c11284f10c9
+2020-11-03 10:12:14  [ AWT-EventQueue-0:70679673 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=visibled&from=auto&to=zh&appid=20201016000590665&salt=1604369534671&sign=8f9285f03cc4f68e063c2c11284f10c9
+2020-11-03 10:12:19  [ AWT-EventQueue-0:70684887 ] - [ INFO ]  jsonResult:{"from":"ast","to":"zh","trans_result":[{"src":"visibled","dst":"\u770b\u5f97\u89c1\u7684"}]}
+2020-11-03 10:12:19  [ AWT-EventQueue-0:70684887 ] - [ INFO ]  trans_result:Trans_Result{dst='看得见的', src='visibled'}
+2020-11-03 10:12:52  [ AWT-EventQueue-0:70717545 ] - [ INFO ]  sign:20201016000590665widthAllocation1604369572544HcGhEQkE82otdClMM6xu
+2020-11-03 10:12:52  [ AWT-EventQueue-0:70717546 ] - [ INFO ]  md5:06175b07868769f0124eeaf158367583
+2020-11-03 10:12:52  [ AWT-EventQueue-0:70717547 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=widthAllocation&from=auto&to=zh&appid=20201016000590665&salt=1604369572544&sign=06175b07868769f0124eeaf158367583
+2020-11-03 10:12:53  [ AWT-EventQueue-0:70718648 ] - [ INFO ]  jsonResult:{"from":"de","to":"zh","trans_result":[{"src":"widthAllocation","dst":"\u5bbd\u5ea6\u5206\u914d"}]}
+2020-11-03 10:12:53  [ AWT-EventQueue-0:70718648 ] - [ INFO ]  trans_result:Trans_Result{dst='宽度分配', src='widthAllocation'}
+2020-11-03 10:39:01  [ AWT-EventQueue-0:72286041 ] - [ INFO ]  sign:20201016000590665validate1604371141040HcGhEQkE82otdClMM6xu
+2020-11-03 10:39:01  [ AWT-EventQueue-0:72286042 ] - [ INFO ]  md5:75e383e13d3d9119b33f6c250b18117c
+2020-11-03 10:39:01  [ AWT-EventQueue-0:72286042 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=validate&from=auto&to=zh&appid=20201016000590665&salt=1604371141040&sign=75e383e13d3d9119b33f6c250b18117c
+2020-11-03 10:39:01  [ AWT-EventQueue-0:72286626 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"validate","dst":"\u9a8c\u8bc1"}]}
+2020-11-03 10:39:01  [ AWT-EventQueue-0:72286627 ] - [ INFO ]  trans_result:Trans_Result{dst='验证', src='validate'}
+2020-11-03 10:48:18  [ AWT-EventQueue-0:72843995 ] - [ INFO ]  sign:20201016000590665execute1604371698994HcGhEQkE82otdClMM6xu
+2020-11-03 10:48:18  [ AWT-EventQueue-0:72843996 ] - [ INFO ]  md5:c9df1daa7bc40b96cd32ceea0fb43cb9
+2020-11-03 10:48:18  [ AWT-EventQueue-0:72843997 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=execute&from=auto&to=zh&appid=20201016000590665&salt=1604371698994&sign=c9df1daa7bc40b96cd32ceea0fb43cb9
+2020-11-03 10:48:19  [ AWT-EventQueue-0:72844290 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"execute","dst":"\u6267\u884c"}]}
+2020-11-03 10:48:19  [ AWT-EventQueue-0:72844291 ] - [ INFO ]  trans_result:Trans_Result{dst='执行', src='execute'}
+2020-11-03 10:53:53  [ AWT-EventQueue-0:73178097 ] - [ INFO ]  sign:20201016000590665check1604372033096HcGhEQkE82otdClMM6xu
+2020-11-03 10:53:53  [ AWT-EventQueue-0:73178098 ] - [ INFO ]  md5:c7ca54341ab1b5212536a8eac81a5735
+2020-11-03 10:53:53  [ AWT-EventQueue-0:73178098 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=check&from=auto&to=zh&appid=20201016000590665&salt=1604372033096&sign=c7ca54341ab1b5212536a8eac81a5735
+2020-11-03 10:53:53  [ AWT-EventQueue-0:73178794 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"check","dst":"\u68c0\u67e5"}]}
+2020-11-03 10:53:53  [ AWT-EventQueue-0:73178795 ] - [ INFO ]  trans_result:Trans_Result{dst='检查', src='check'}
+2020-11-03 11:26:32  [ AWT-EventQueue-0:75137091 ] - [ INFO ]  sign:20201016000590665头像1604373992090HcGhEQkE82otdClMM6xu
+2020-11-03 11:26:32  [ AWT-EventQueue-0:75137092 ] - [ INFO ]  md5:b1cfe7e76008ab55fc2ef2e3bf2af826
+2020-11-03 11:26:32  [ AWT-EventQueue-0:75137092 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E5%A4%B4%E5%83%8F&from=auto&to=zh&appid=20201016000590665&salt=1604373992090&sign=b1cfe7e76008ab55fc2ef2e3bf2af826
+2020-11-03 11:26:32  [ AWT-EventQueue-0:75137789 ] - [ INFO ]  jsonResult:{"from":"zh","to":"zh","trans_result":[{"src":"\u5934\u50cf","dst":"\u5934\u50cf"}]}
+2020-11-03 11:26:32  [ AWT-EventQueue-0:75137790 ] - [ INFO ]  trans_result:Trans_Result{dst='头像', src='头像'}
+2020-11-03 11:26:38  [ AWT-EventQueue-0:75143519 ] - [ INFO ]  sign:20201016000590665头像1604373998518HcGhEQkE82otdClMM6xu
+2020-11-03 11:26:38  [ AWT-EventQueue-0:75143519 ] - [ INFO ]  md5:ad2873ec09cb8a9c0e383b292123b89f
+2020-11-03 11:26:38  [ AWT-EventQueue-0:75143520 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E5%A4%B4%E5%83%8F&from=zh&to=en&appid=20201016000590665&salt=1604373998518&sign=ad2873ec09cb8a9c0e383b292123b89f
+2020-11-03 11:26:39  [ AWT-EventQueue-0:75144473 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u5934\u50cf","dst":"head portrait"}]}
+2020-11-03 11:26:39  [ AWT-EventQueue-0:75144474 ] - [ INFO ]  trans_result:Trans_Result{dst='head portrait', src='头像'}
+2020-11-03 11:55:39  [ AWT-EventQueue-0:76884164 ] - [ INFO ]  sign:20201016000590665渲染1604375739163HcGhEQkE82otdClMM6xu
+2020-11-03 11:55:39  [ AWT-EventQueue-0:76884164 ] - [ INFO ]  md5:51bbc37da961342099d1bf7411ee350b
+2020-11-03 11:55:39  [ AWT-EventQueue-0:76884165 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E6%B8%B2%E6%9F%93&from=zh&to=en&appid=20201016000590665&salt=1604375739163&sign=51bbc37da961342099d1bf7411ee350b
+2020-11-03 11:55:39  [ AWT-EventQueue-0:76884741 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u6e32\u67d3","dst":"Rendering"}]}
+2020-11-03 11:55:39  [ AWT-EventQueue-0:76884742 ] - [ INFO ]  trans_result:Trans_Result{dst='Rendering', src='渲染'}
+2020-11-03 11:56:23  [ AWT-EventQueue-0:76928556 ] - [ INFO ]  sign:20201016000590665更新已渲染的元素 1604375783555HcGhEQkE82otdClMM6xu
+2020-11-03 11:56:23  [ AWT-EventQueue-0:76928556 ] - [ INFO ]  md5:21d2ca00234fa3ac85827056136417eb
+2020-11-03 11:56:23  [ AWT-EventQueue-0:76928557 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E6%9B%B4%E6%96%B0%E5%B7%B2%E6%B8%B2%E6%9F%93%E7%9A%84%E5%85%83%E7%B4%A0+&from=zh&to=en&appid=20201016000590665&salt=1604375783555&sign=21d2ca00234fa3ac85827056136417eb
+2020-11-03 11:56:23  [ AWT-EventQueue-0:76928923 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u66f4\u65b0\u5df2\u6e32\u67d3\u7684\u5143\u7d20","dst":"Update rendered elements"}]}
+2020-11-03 11:56:23  [ AWT-EventQueue-0:76928923 ] - [ INFO ]  trans_result:Trans_Result{dst='Update rendered elements', src='更新已渲染的元素'}
+2020-11-03 13:57:04  [ AWT-EventQueue-0:84169999 ] - [ INFO ]  sign:20201016000590665ignore1604383024998HcGhEQkE82otdClMM6xu
+2020-11-03 13:57:04  [ AWT-EventQueue-0:84170000 ] - [ INFO ]  md5:b7bbed6f151623e3a384620740d93efb
+2020-11-03 13:57:04  [ AWT-EventQueue-0:84170000 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=ignore&from=auto&to=zh&appid=20201016000590665&salt=1604383024998&sign=b7bbed6f151623e3a384620740d93efb
+2020-11-03 13:57:05  [ AWT-EventQueue-0:84170262 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"ignore","dst":"\u5ffd\u89c6"}]}
+2020-11-03 13:57:05  [ AWT-EventQueue-0:84170262 ] - [ INFO ]  trans_result:Trans_Result{dst='忽视', src='ignore'}

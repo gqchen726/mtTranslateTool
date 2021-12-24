@@ -1,0 +1,57 @@
+2020-10-27 10:31:55  [ AWT-EventQueue-0:0 ] - [ DEBUG ]  {baidu.api.url=http://api.fanyi.baidu.com/api/trans/vip/translate, baidu.api.requestProperties.query=UTF-8, baidu.api.requestProperties.appid=20201016000590665, baidu.api.requestProperties.timeOut=10000, baidu.api.requestProperties.meth=GET, baidu.api.requestProperties.securityKey=HcGhEQkE82otdClMM6xu, baidu.api.proxy.host=10.1.27.102, baidu.api.proxy.port=8080}
+2020-10-27 10:31:55  [ AWT-EventQueue-0:5 ] - [ INFO ]  properties:{baidu.api.url=http://api.fanyi.baidu.com/api/trans/vip/translate, baidu.api.requestProperties.query=UTF-8, baidu.api.requestProperties.appid=20201016000590665, baidu.api.requestProperties.timeOut=10000, baidu.api.requestProperties.meth=GET, baidu.api.requestProperties.securityKey=HcGhEQkE82otdClMM6xu, baidu.api.proxy.host=10.1.27.102, baidu.api.proxy.port=8080}
+2020-10-27 10:31:55  [ AWT-EventQueue-0:47 ] - [ INFO ]  sign:20201016000590665Non-official documents, use double side printing as often as possible1603765915110HcGhEQkE82otdClMM6xu
+2020-10-27 10:31:55  [ AWT-EventQueue-0:65 ] - [ INFO ]  md5:ab20d34409b2a41de7697857fccbc496
+2020-10-27 10:31:55  [ AWT-EventQueue-0:69 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Non-official+documents%2C+use+double+side+printing+as+often+as+possible&from=auto&to=zh&appid=20201016000590665&salt=1603765915110&sign=ab20d34409b2a41de7697857fccbc496
+2020-10-27 10:31:57  [ AWT-EventQueue-0:2276 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Non-official documents, use double side printing as often as possible","dst":"\u975e\u5b98\u65b9\u6587\u4ef6\uff0c\u5c3d\u91cf\u4f7f\u7528\u53cc\u9762\u6253\u5370"}]}
+2020-10-27 10:31:57  [ AWT-EventQueue-0:2502 ] - [ INFO ]  trans_result:Trans_Result{dst='非官方文件，尽量使用双面打印', src='Non-official documents, use double side printing as often as possible'}
+2020-10-27 10:32:17  [ AWT-EventQueue-0:22562 ] - [ INFO ]  sign:20201016000590665Maintain 24 hour smoke-free environment1603765937625HcGhEQkE82otdClMM6xu
+2020-10-27 10:32:17  [ AWT-EventQueue-0:22564 ] - [ INFO ]  md5:ad9eef8b01929653388a678a979761d0
+2020-10-27 10:32:17  [ AWT-EventQueue-0:22565 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Maintain+24+hour+smoke-free+environment&from=auto&to=zh&appid=20201016000590665&salt=1603765937625&sign=ad9eef8b01929653388a678a979761d0
+2020-10-27 10:32:17  [ AWT-EventQueue-0:22907 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Maintain 24 hour smoke-free environment","dst":"\u4fdd\u630124\u5c0f\u65f6\u65e0\u70df\u73af\u5883"}]}
+2020-10-27 10:32:17  [ AWT-EventQueue-0:22908 ] - [ INFO ]  trans_result:Trans_Result{dst='保持24小时无烟环境', src='Maintain 24 hour smoke-free environment'}
+2020-10-27 10:32:34  [ AWT-EventQueue-0:39098 ] - [ INFO ]  sign:20201016000590665Standard working-hour is 8 hours per day from 9AM to 6PM with one hour for Lunch Breal1603765954161HcGhEQkE82otdClMM6xu
+2020-10-27 10:32:34  [ AWT-EventQueue-0:39099 ] - [ INFO ]  md5:45356757443d887051a9e8f90630083a
+2020-10-27 10:32:34  [ AWT-EventQueue-0:39100 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Standard+working-hour+is+8+hours+per+day+from+9AM+to+6PM+with+one+hour+for+Lunch+Breal&from=auto&to=zh&appid=20201016000590665&salt=1603765954161&sign=45356757443d887051a9e8f90630083a
+2020-10-27 10:32:34  [ AWT-EventQueue-0:39422 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Standard working-hour is 8 hours per day from 9AM to 6PM with one hour for Lunch Breal","dst":"\u6807\u51c6\u5de5\u4f5c\u65f6\u95f4\u4e3a\u6bcf\u59298\u5c0f\u65f6\uff0c\u4ece\u4e0a\u53489\u70b9\u5230\u4e0b\u53486\u70b9\uff0c\u5348\u9910\u65f6\u95f4\u4e3a1\u5c0f\u65f6"}]}
+2020-10-27 10:32:34  [ AWT-EventQueue-0:39425 ] - [ INFO ]  trans_result:Trans_Result{dst='标准工作时间为每天8小时，从上午9点到下午6点，午餐时间为1小时', src='Standard working-hour is 8 hours per day from 9AM to 6PM with one hour for Lunch Breal'}
+2020-10-27 10:32:59  [ AWT-EventQueue-0:64106 ] - [ INFO ]  sign:2020101600059066540 hours per week on average1603765979169HcGhEQkE82otdClMM6xu
+2020-10-27 10:32:59  [ AWT-EventQueue-0:64106 ] - [ INFO ]  md5:28adde136e78bba756b3914f3fa4d521
+2020-10-27 10:32:59  [ AWT-EventQueue-0:64107 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=40+hours+per+week+on+average&from=auto&to=zh&appid=20201016000590665&salt=1603765979169&sign=28adde136e78bba756b3914f3fa4d521
+2020-10-27 10:33:00  [ AWT-EventQueue-0:65168 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"40 hours per week on average","dst":"\u5e73\u5747\u6bcf\u546840\u5c0f\u65f6"}]}
+2020-10-27 10:33:00  [ AWT-EventQueue-0:65170 ] - [ INFO ]  trans_result:Trans_Result{dst='平均每周40小时', src='40 hours per week on average'}
+2020-10-27 10:35:20  [ AWT-EventQueue-0:205186 ] - [ INFO ]  sign:20201016000590665stock1603766120249HcGhEQkE82otdClMM6xu
+2020-10-27 10:35:20  [ AWT-EventQueue-0:205186 ] - [ INFO ]  md5:21c6dd3de7b373bd69554c4f93f948c6
+2020-10-27 10:35:20  [ AWT-EventQueue-0:205186 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=stock&from=en&to=zh&appid=20201016000590665&salt=1603766120249&sign=21c6dd3de7b373bd69554c4f93f948c6
+2020-10-27 10:35:20  [ AWT-EventQueue-0:205776 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"stock","dst":"\u80a1\u7968"}]}
+2020-10-27 10:35:20  [ AWT-EventQueue-0:205777 ] - [ INFO ]  trans_result:Trans_Result{dst='股票', src='stock'}
+2020-10-27 10:43:49  [ AWT-EventQueue-0:714778 ] - [ INFO ]  sign:20201016000590665The System encounters an error.1603766629841HcGhEQkE82otdClMM6xu
+2020-10-27 10:43:49  [ AWT-EventQueue-0:714779 ] - [ INFO ]  md5:8701bb90a3009509fdc52ac92b85f577
+2020-10-27 10:43:49  [ AWT-EventQueue-0:714779 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=The+System+encounters+an+error.&from=en&to=zh&appid=20201016000590665&salt=1603766629841&sign=8701bb90a3009509fdc52ac92b85f577
+2020-10-27 10:43:50  [ AWT-EventQueue-0:715154 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"The System encounters an error.","dst":"\u7cfb\u7edf\u9047\u5230\u9519\u8bef\u3002"}]}
+2020-10-27 10:43:50  [ AWT-EventQueue-0:715155 ] - [ INFO ]  trans_result:Trans_Result{dst='系统遇到错误。', src='The System encounters an error.'}
+2020-10-27 11:43:06  [ AWT-EventQueue-0:4271234 ] - [ INFO ]  sign:20201016000590665conditions1603770186297HcGhEQkE82otdClMM6xu
+2020-10-27 11:43:06  [ AWT-EventQueue-0:4271235 ] - [ INFO ]  md5:b13de616a2373ad8f5eeb14518652084
+2020-10-27 11:43:06  [ AWT-EventQueue-0:4271236 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=conditions&from=en&to=zh&appid=20201016000590665&salt=1603770186297&sign=b13de616a2373ad8f5eeb14518652084
+2020-10-27 11:43:06  [ AWT-EventQueue-0:4271713 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"conditions","dst":"\u6761\u4ef6"}]}
+2020-10-27 11:43:06  [ AWT-EventQueue-0:4271714 ] - [ INFO ]  trans_result:Trans_Result{dst='条件', src='conditions'}
+2020-10-27 11:45:29  [ AWT-EventQueue-0:4414185 ] - [ INFO ]  sign:20201016000590665party category1603770329248HcGhEQkE82otdClMM6xu
+2020-10-27 11:45:29  [ AWT-EventQueue-0:4414186 ] - [ INFO ]  md5:faedbaa4649009046b1b822fed4f2240
+2020-10-27 11:45:29  [ AWT-EventQueue-0:4414186 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=party+category&from=en&to=zh&appid=20201016000590665&salt=1603770329248&sign=faedbaa4649009046b1b822fed4f2240
+2020-10-27 11:45:29  [ AWT-EventQueue-0:4414534 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"party category","dst":"\u53c2\u4e0e\u65b9\u7c7b\u522b"}]}
+2020-10-27 11:45:29  [ AWT-EventQueue-0:4414534 ] - [ INFO ]  trans_result:Trans_Result{dst='参与方类别', src='party category'}
+2020-10-27 13:51:39  [ AWT-EventQueue-0:11984641 ] - [ INFO ]  sign:20201016000590665condition map1603777899704HcGhEQkE82otdClMM6xu
+2020-10-27 13:51:39  [ AWT-EventQueue-0:11984642 ] - [ INFO ]  md5:08312b9127f1127981cc956c85a6413a
+2020-10-27 13:51:39  [ AWT-EventQueue-0:11984642 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=condition+map&from=en&to=zh&appid=20201016000590665&salt=1603777899704&sign=08312b9127f1127981cc956c85a6413a
+2020-10-27 13:51:40  [ AWT-EventQueue-0:11985179 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"condition map","dst":"\u6761\u4ef6\u56fe"}]}
+2020-10-27 13:51:40  [ AWT-EventQueue-0:11985180 ] - [ INFO ]  trans_result:Trans_Result{dst='条件图', src='condition map'}
+2020-10-27 14:37:20  [ AWT-EventQueue-0:14725607 ] - [ INFO ]  sign:20201016000590665双十一1603780640670HcGhEQkE82otdClMM6xu
+2020-10-27 14:37:20  [ AWT-EventQueue-0:14725608 ] - [ INFO ]  md5:5653f765d5fc6274281a4309598eb56e
+2020-10-27 14:37:20  [ AWT-EventQueue-0:14725609 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E5%8F%8C%E5%8D%81%E4%B8%80&from=zh&to=en&appid=20201016000590665&salt=1603780640670&sign=5653f765d5fc6274281a4309598eb56e
+2020-10-27 14:37:21  [ AWT-EventQueue-0:14726379 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u53cc\u5341\u4e00","dst":"Double Eleven"}]}
+2020-10-27 14:37:21  [ AWT-EventQueue-0:14726380 ] - [ INFO ]  trans_result:Trans_Result{dst='Double Eleven', src='双十一'}
+2020-10-27 16:08:48  [ AWT-EventQueue-0:20213343 ] - [ INFO ]  sign:20201016000590665required1603786128406HcGhEQkE82otdClMM6xu
+2020-10-27 16:08:48  [ AWT-EventQueue-0:20213345 ] - [ INFO ]  md5:76153cfc6afc1e3f697194a141222adf
+2020-10-27 16:08:48  [ AWT-EventQueue-0:20213345 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=required&from=auto&to=zh&appid=20201016000590665&salt=1603786128406&sign=76153cfc6afc1e3f697194a141222adf
+2020-10-27 16:08:48  [ AWT-EventQueue-0:20213733 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"required","dst":"\u5fc5\u4fee\u7684"}]}
+2020-10-27 16:08:48  [ AWT-EventQueue-0:20213733 ] - [ INFO ]  trans_result:Trans_Result{dst='必修的', src='required'}

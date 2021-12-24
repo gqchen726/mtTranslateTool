@@ -1,0 +1,5 @@
+2020-10-30 11:42:40  [ AWT-EventQueue-0:263444979 ] - [ INFO ]  sign:20201016000590665操作1604029360042HcGhEQkE82otdClMM6xu
+2020-10-30 11:42:40  [ AWT-EventQueue-0:263444983 ] - [ INFO ]  md5:55cb3f019663da10983d41ae47ee97ff
+2020-10-30 11:42:40  [ AWT-EventQueue-0:263444984 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E6%93%8D%E4%BD%9C&from=zh&to=en&appid=20201016000590665&salt=1604029360042&sign=55cb3f019663da10983d41ae47ee97ff
+2020-10-30 11:42:40  [ AWT-EventQueue-0:263445217 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u64cd\u4f5c","dst":"operation"}]}
+2020-10-30 11:42:40  [ AWT-EventQueue-0:263445218 ] - [ INFO ]  trans_result:Trans_Result{dst='operation', src='操作'}

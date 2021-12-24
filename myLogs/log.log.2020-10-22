@@ -1,0 +1,27 @@
+2020-10-22 11:34:09  [ AWT-EventQueue-0:0 ] - [ DEBUG ]  {baidu.api.url=http://api.fanyi.baidu.com/api/trans/vip/translate, baidu.api.requestProperties.query=UTF-8, baidu.api.requestProperties.appid=20201016000590665, baidu.api.requestProperties.timeOut=10000, baidu.api.requestProperties.meth=GET, baidu.api.requestProperties.securityKey=HcGhEQkE82otdClMM6xu, baidu.api.proxy.host=10.1.27.102, baidu.api.proxy.port=8080}
+2020-10-22 11:34:09  [ AWT-EventQueue-0:4 ] - [ INFO ]  properties:{baidu.api.url=http://api.fanyi.baidu.com/api/trans/vip/translate, baidu.api.requestProperties.query=UTF-8, baidu.api.requestProperties.appid=20201016000590665, baidu.api.requestProperties.timeOut=10000, baidu.api.requestProperties.meth=GET, baidu.api.requestProperties.securityKey=HcGhEQkE82otdClMM6xu, baidu.api.proxy.host=10.1.27.102, baidu.api.proxy.port=8080}
+2020-10-22 11:34:09  [ AWT-EventQueue-0:7 ] - [ INFO ]  sign:20201016000590665consumer1603337649846HcGhEQkE82otdClMM6xu
+2020-10-22 11:34:09  [ AWT-EventQueue-0:37 ] - [ INFO ]  md5:19d34160cc4ae999fd8fbb4a9b9414f4
+2020-10-22 11:34:09  [ AWT-EventQueue-0:40 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=consumer&from=auto&to=zh&appid=20201016000590665&salt=1603337649846&sign=19d34160cc4ae999fd8fbb4a9b9414f4
+2020-10-22 11:34:10  [ AWT-EventQueue-0:982 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"consumer","dst":"\u6d88\u8d39\u8005"}]}
+2020-10-22 11:34:11  [ AWT-EventQueue-0:1168 ] - [ INFO ]  trans_result:Trans_Result{dst='消费者', src='consumer'}
+2020-10-22 11:34:21  [ AWT-EventQueue-0:11645 ] - [ INFO ]  sign:20201016000590665supplier1603337661484HcGhEQkE82otdClMM6xu
+2020-10-22 11:34:21  [ AWT-EventQueue-0:11646 ] - [ INFO ]  md5:0bed91fe98bd44deda0c796068a6ab9b
+2020-10-22 11:34:21  [ AWT-EventQueue-0:11647 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=supplier&from=auto&to=zh&appid=20201016000590665&salt=1603337661484&sign=0bed91fe98bd44deda0c796068a6ab9b
+2020-10-22 11:34:22  [ AWT-EventQueue-0:12220 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"supplier","dst":"\u4f9b\u5e94\u5546"}]}
+2020-10-22 11:34:22  [ AWT-EventQueue-0:12221 ] - [ INFO ]  trans_result:Trans_Result{dst='供应商', src='supplier'}
+2020-10-22 11:34:34  [ AWT-EventQueue-0:24592 ] - [ INFO ]  sign:20201016000590665function1603337674431HcGhEQkE82otdClMM6xu
+2020-10-22 11:34:34  [ AWT-EventQueue-0:24593 ] - [ INFO ]  md5:cae05e50b4b6d225c8d42ab5ed022eaf
+2020-10-22 11:34:34  [ AWT-EventQueue-0:24593 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=function&from=auto&to=zh&appid=20201016000590665&salt=1603337674431&sign=cae05e50b4b6d225c8d42ab5ed022eaf
+2020-10-22 11:34:34  [ AWT-EventQueue-0:24878 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"function","dst":"\u529f\u80fd"}]}
+2020-10-22 11:34:34  [ AWT-EventQueue-0:24879 ] - [ INFO ]  trans_result:Trans_Result{dst='功能', src='function'}
+2020-10-22 11:36:21  [ AWT-EventQueue-0:131894 ] - [ INFO ]  sign:20201016000590665方法引用1603337781732HcGhEQkE82otdClMM6xu
+2020-10-22 11:36:21  [ AWT-EventQueue-0:131894 ] - [ INFO ]  md5:c749f5cdd5223e1b0ac187083ad3e356
+2020-10-22 11:36:21  [ AWT-EventQueue-0:131895 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8&from=zh&to=en&appid=20201016000590665&salt=1603337781732&sign=c749f5cdd5223e1b0ac187083ad3e356
+2020-10-22 11:36:22  [ AWT-EventQueue-0:132255 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u65b9\u6cd5\u5f15\u7528","dst":"Method reference"}]}
+2020-10-22 11:36:22  [ AWT-EventQueue-0:132255 ] - [ INFO ]  trans_result:Trans_Result{dst='Method reference', src='方法引用'}
+2020-10-22 15:51:33  [ AWT-EventQueue-0:15443517 ] - [ INFO ]  sign:20201016000590665Present1603353093356HcGhEQkE82otdClMM6xu
+2020-10-22 15:51:33  [ AWT-EventQueue-0:15443519 ] - [ INFO ]  md5:a8edcac93a3161581ddf9817d7407788
+2020-10-22 15:51:33  [ AWT-EventQueue-0:15443519 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Present&from=auto&to=zh&appid=20201016000590665&salt=1603353093356&sign=a8edcac93a3161581ddf9817d7407788
+2020-10-22 15:51:33  [ AWT-EventQueue-0:15444141 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Present","dst":"\u51fa\u5e2d"}]}
+2020-10-22 15:51:33  [ AWT-EventQueue-0:15444142 ] - [ INFO ]  trans_result:Trans_Result{dst='出席', src='Present'}

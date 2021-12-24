@@ -1,0 +1,17 @@
+2020-11-02 14:34:14  [ AWT-EventQueue-0:0 ] - [ DEBUG ]  {baidu.api.url=http://api.fanyi.baidu.com/api/trans/vip/translate, baidu.api.requestProperties.query=UTF-8, baidu.api.requestProperties.appid=20201016000590665, baidu.api.requestProperties.timeOut=10000, baidu.api.requestProperties.meth=GET, baidu.api.requestProperties.securityKey=HcGhEQkE82otdClMM6xu, baidu.api.proxy.host=10.1.27.102, baidu.api.proxy.port=8080}
+2020-11-02 14:34:15  [ AWT-EventQueue-0:5 ] - [ INFO ]  properties:{baidu.api.url=http://api.fanyi.baidu.com/api/trans/vip/translate, baidu.api.requestProperties.query=UTF-8, baidu.api.requestProperties.appid=20201016000590665, baidu.api.requestProperties.timeOut=10000, baidu.api.requestProperties.meth=GET, baidu.api.requestProperties.securityKey=HcGhEQkE82otdClMM6xu, baidu.api.proxy.host=10.1.27.102, baidu.api.proxy.port=8080}
+2020-11-02 14:34:15  [ AWT-EventQueue-0:19 ] - [ INFO ]  sign:20201016000590665悔棋1604298855018HcGhEQkE82otdClMM6xu
+2020-11-02 14:34:15  [ AWT-EventQueue-0:39 ] - [ INFO ]  md5:a7cd2df2d4074f3a54d7c1c396739c39
+2020-11-02 14:34:15  [ AWT-EventQueue-0:65 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E6%82%94%E6%A3%8B&from=zh&to=en&appid=20201016000590665&salt=1604298855018&sign=a7cd2df2d4074f3a54d7c1c396739c39
+2020-11-02 14:34:15  [ AWT-EventQueue-0:934 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u6094\u68cb","dst":"Regret chess"}]}
+2020-11-02 14:34:16  [ AWT-EventQueue-0:1103 ] - [ INFO ]  trans_result:Trans_Result{dst='Regret chess', src='悔棋'}
+2020-11-02 15:23:11  [ AWT-EventQueue-0:2936397 ] - [ INFO ]  sign:20201016000590665坐标映射1604301791396HcGhEQkE82otdClMM6xu
+2020-11-02 15:23:11  [ AWT-EventQueue-0:2936399 ] - [ INFO ]  md5:6e748ef52374b27b33db5c524567f821
+2020-11-02 15:23:11  [ AWT-EventQueue-0:2936399 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E5%9D%90%E6%A0%87%E6%98%A0%E5%B0%84&from=zh&to=en&appid=20201016000590665&salt=1604301791396&sign=6e748ef52374b27b33db5c524567f821
+2020-11-02 15:23:11  [ AWT-EventQueue-0:2936698 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u5750\u6807\u6620\u5c04","dst":"Coordinate mapping"}]}
+2020-11-02 15:23:11  [ AWT-EventQueue-0:2936699 ] - [ INFO ]  trans_result:Trans_Result{dst='Coordinate mapping', src='坐标映射'}
+2020-11-02 17:00:33  [ AWT-EventQueue-0:8778321 ] - [ INFO ]  sign:20201016000590665概念1604307633320HcGhEQkE82otdClMM6xu
+2020-11-02 17:00:33  [ AWT-EventQueue-0:8778323 ] - [ INFO ]  md5:edf2f1c433f62ca40bc4aac71fa514a8
+2020-11-02 17:00:33  [ AWT-EventQueue-0:8778323 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E6%A6%82%E5%BF%B5&from=zh&to=en&appid=20201016000590665&salt=1604307633320&sign=edf2f1c433f62ca40bc4aac71fa514a8
+2020-11-02 17:00:33  [ AWT-EventQueue-0:8778841 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u6982\u5ff5","dst":"concept"}]}
+2020-11-02 17:00:33  [ AWT-EventQueue-0:8778841 ] - [ INFO ]  trans_result:Trans_Result{dst='concept', src='概念'}

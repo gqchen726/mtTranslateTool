@@ -1,0 +1,85 @@
+2020-10-28 09:52:28  [ AWT-EventQueue-0:84033259 ] - [ INFO ]  sign:20201016000590665预生产1603849948322HcGhEQkE82otdClMM6xu
+2020-10-28 09:52:28  [ AWT-EventQueue-0:84033264 ] - [ INFO ]  md5:7d5bf54d652e2760d769d68ab4caa33d
+2020-10-28 09:52:28  [ AWT-EventQueue-0:84033265 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=%E9%A2%84%E7%94%9F%E4%BA%A7&from=zh&to=en&appid=20201016000590665&salt=1603849948322&sign=7d5bf54d652e2760d769d68ab4caa33d
+2020-10-28 09:52:28  [ AWT-EventQueue-0:84033543 ] - [ INFO ]  jsonResult:{"from":"zh","to":"en","trans_result":[{"src":"\u9884\u751f\u4ea7","dst":"Pre production"}]}
+2020-10-28 09:52:28  [ AWT-EventQueue-0:84033544 ] - [ INFO ]  trans_result:Trans_Result{dst='Pre production', src='预生产'}
+2020-10-28 11:21:41  [ AWT-EventQueue-0:89386530 ] - [ INFO ]  sign:20201016000590665Function scope1603855301593HcGhEQkE82otdClMM6xu
+2020-10-28 11:21:41  [ AWT-EventQueue-0:89386532 ] - [ INFO ]  md5:023ac0d5d314cea07cf54f6e4505d72c
+2020-10-28 11:21:41  [ AWT-EventQueue-0:89386533 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Function+scope&from=auto&to=zh&appid=20201016000590665&salt=1603855301593&sign=023ac0d5d314cea07cf54f6e4505d72c
+2020-10-28 11:21:41  [ AWT-EventQueue-0:89386917 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Function scope","dst":"\u529f\u80fd\u8303\u56f4"}]}
+2020-10-28 11:21:41  [ AWT-EventQueue-0:89386918 ] - [ INFO ]  trans_result:Trans_Result{dst='功能范围', src='Function scope'}
+2020-10-28 11:22:20  [ AWT-EventQueue-0:89425152 ] - [ INFO ]  sign:20201016000590665Reassigned1603855340215HcGhEQkE82otdClMM6xu
+2020-10-28 11:22:20  [ AWT-EventQueue-0:89425153 ] - [ INFO ]  md5:45c9cb59b373080a1f77b6e09b1f9ebd
+2020-10-28 11:22:20  [ AWT-EventQueue-0:89425154 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Reassigned&from=auto&to=zh&appid=20201016000590665&salt=1603855340215&sign=45c9cb59b373080a1f77b6e09b1f9ebd
+2020-10-28 11:22:20  [ AWT-EventQueue-0:89425746 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Reassigned","dst":"\u91cd\u65b0\u5206\u914d"}]}
+2020-10-28 11:22:20  [ AWT-EventQueue-0:89425746 ] - [ INFO ]  trans_result:Trans_Result{dst='重新分配', src='Reassigned'}
+2020-10-28 11:22:46  [ AWT-EventQueue-0:89451800 ] - [ INFO ]  sign:20201016000590665Hoisting1603855366863HcGhEQkE82otdClMM6xu
+2020-10-28 11:22:46  [ AWT-EventQueue-0:89451801 ] - [ INFO ]  md5:dd8e5087b769619092e7d72564d73af7
+2020-10-28 11:22:46  [ AWT-EventQueue-0:89451801 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Hoisting&from=auto&to=zh&appid=20201016000590665&salt=1603855366863&sign=dd8e5087b769619092e7d72564d73af7
+2020-10-28 11:22:47  [ AWT-EventQueue-0:89452133 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Hoisting","dst":"\u540a\u88c5"}]}
+2020-10-28 11:22:47  [ AWT-EventQueue-0:89452134 ] - [ INFO ]  trans_result:Trans_Result{dst='吊装', src='Hoisting'}
+2020-10-28 13:50:23  [ AWT-EventQueue-0:98308248 ] - [ INFO ]  sign:20201016000590665centenarian1603864223311HcGhEQkE82otdClMM6xu
+2020-10-28 13:50:23  [ AWT-EventQueue-0:98308251 ] - [ INFO ]  md5:9d2ab6af04e5c6bb8aa588c42f5cb94a
+2020-10-28 13:50:23  [ AWT-EventQueue-0:98308252 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=centenarian&from=auto&to=zh&appid=20201016000590665&salt=1603864223311&sign=9d2ab6af04e5c6bb8aa588c42f5cb94a
+2020-10-28 13:50:24  [ AWT-EventQueue-0:98309633 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"centenarian","dst":"\u767e\u5c81\u8001\u4eba"}]}
+2020-10-28 13:50:24  [ AWT-EventQueue-0:98309636 ] - [ INFO ]  trans_result:Trans_Result{dst='百岁老人', src='centenarian'}
+2020-10-28 13:50:32  [ AWT-EventQueue-0:98317527 ] - [ INFO ]  sign:20201016000590665youngster1603864232590HcGhEQkE82otdClMM6xu
+2020-10-28 13:50:32  [ AWT-EventQueue-0:98317528 ] - [ INFO ]  md5:ada931e58ab6cfc6f6886b4e395733f6
+2020-10-28 13:50:32  [ AWT-EventQueue-0:98317529 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=youngster&from=auto&to=zh&appid=20201016000590665&salt=1603864232590&sign=ada931e58ab6cfc6f6886b4e395733f6
+2020-10-28 13:50:32  [ AWT-EventQueue-0:98317803 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"youngster","dst":"\u5e74\u8f7b\u4eba"}]}
+2020-10-28 13:50:32  [ AWT-EventQueue-0:98317804 ] - [ INFO ]  trans_result:Trans_Result{dst='年轻人', src='youngster'}
+2020-10-28 16:12:21  [ AWT-EventQueue-0:106826230 ] - [ INFO ]  sign:20201016000590665condition1603872741293HcGhEQkE82otdClMM6xu
+2020-10-28 16:12:21  [ AWT-EventQueue-0:106826232 ] - [ INFO ]  md5:9965fcc9e47f5bc0104e7095a61542e3
+2020-10-28 16:12:21  [ AWT-EventQueue-0:106826233 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=condition&from=auto&to=zh&appid=20201016000590665&salt=1603872741293&sign=9965fcc9e47f5bc0104e7095a61542e3
+2020-10-28 16:12:21  [ AWT-EventQueue-0:106826789 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"condition","dst":"\u6761\u4ef6"}]}
+2020-10-28 16:12:21  [ AWT-EventQueue-0:106826791 ] - [ INFO ]  trans_result:Trans_Result{dst='条件', src='condition'}
+2020-10-28 16:13:03  [ AWT-EventQueue-0:106868159 ] - [ INFO ]  sign:20201016000590665Sales Channel1603872783222HcGhEQkE82otdClMM6xu
+2020-10-28 16:13:03  [ AWT-EventQueue-0:106868160 ] - [ INFO ]  md5:d4b49362d2f4e0110cd3a87eb67ae842
+2020-10-28 16:13:03  [ AWT-EventQueue-0:106868160 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Sales+Channel&from=auto&to=zh&appid=20201016000590665&salt=1603872783222&sign=d4b49362d2f4e0110cd3a87eb67ae842
+2020-10-28 16:13:03  [ AWT-EventQueue-0:106868828 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Sales Channel","dst":"\u9500\u552e\u6e20\u9053"}]}
+2020-10-28 16:13:03  [ AWT-EventQueue-0:106868829 ] - [ INFO ]  trans_result:Trans_Result{dst='销售渠道', src='Sales Channel'}
+2020-10-28 16:29:43  [ AWT-EventQueue-0:107868302 ] - [ INFO ]  sign:20201016000590665Remote1603873783365HcGhEQkE82otdClMM6xu
+2020-10-28 16:29:43  [ AWT-EventQueue-0:107868303 ] - [ INFO ]  md5:013b24cf6ae3784ee97ac76062eeee4b
+2020-10-28 16:29:43  [ AWT-EventQueue-0:107868304 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Remote&from=auto&to=zh&appid=20201016000590665&salt=1603873783365&sign=013b24cf6ae3784ee97ac76062eeee4b
+2020-10-28 16:29:43  [ AWT-EventQueue-0:107868680 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Remote","dst":"\u8fdc\u7a0b"}]}
+2020-10-28 16:29:43  [ AWT-EventQueue-0:107868681 ] - [ INFO ]  trans_result:Trans_Result{dst='远程', src='Remote'}
+2020-10-28 17:56:04  [ AWT-EventQueue-0:113049038 ] - [ INFO ]  sign:20201016000590665Study and Discussion1603878964101HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:04  [ AWT-EventQueue-0:113049040 ] - [ INFO ]  md5:98ea48c7ea02b9aa84880ab71619e13f
+2020-10-28 17:56:04  [ AWT-EventQueue-0:113049041 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Study+and+Discussion&from=auto&to=zh&appid=20201016000590665&salt=1603878964101&sign=98ea48c7ea02b9aa84880ab71619e13f
+2020-10-28 17:56:04  [ AWT-EventQueue-0:113049530 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Study and Discussion","dst":"\u7814\u7a76\u4e0e\u8ba8\u8bba"}]}
+2020-10-28 17:56:04  [ AWT-EventQueue-0:113049531 ] - [ INFO ]  trans_result:Trans_Result{dst='研究与讨论', src='Study and Discussion'}
+2020-10-28 17:56:12  [ AWT-EventQueue-0:113057461 ] - [ INFO ]  sign:20201016000590665Coding1603878972524HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:12  [ AWT-EventQueue-0:113057462 ] - [ INFO ]  md5:84a0bf82659a27ce41450158590e9026
+2020-10-28 17:56:12  [ AWT-EventQueue-0:113057463 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Coding&from=auto&to=zh&appid=20201016000590665&salt=1603878972524&sign=84a0bf82659a27ce41450158590e9026
+2020-10-28 17:56:13  [ AWT-EventQueue-0:113058040 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Coding","dst":"\u7f16\u7801"}]}
+2020-10-28 17:56:13  [ AWT-EventQueue-0:113058041 ] - [ INFO ]  trans_result:Trans_Result{dst='编码', src='Coding'}
+2020-10-28 17:56:18  [ AWT-EventQueue-0:113063429 ] - [ INFO ]  sign:20201016000590665Review1603878978492HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:18  [ AWT-EventQueue-0:113063430 ] - [ INFO ]  md5:52a6ef30a21115a02cc5a9ce08ee6a8d
+2020-10-28 17:56:18  [ AWT-EventQueue-0:113063431 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Review&from=auto&to=zh&appid=20201016000590665&salt=1603878978492&sign=52a6ef30a21115a02cc5a9ce08ee6a8d
+2020-10-28 17:56:19  [ AWT-EventQueue-0:113064133 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Review","dst":"\u590d\u4e60"}]}
+2020-10-28 17:56:19  [ AWT-EventQueue-0:113064134 ] - [ INFO ]  trans_result:Trans_Result{dst='复习', src='Review'}
+2020-10-28 17:56:26  [ AWT-EventQueue-0:113071566 ] - [ INFO ]  sign:20201016000590665Defect Fixing1603878986629HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:26  [ AWT-EventQueue-0:113071567 ] - [ INFO ]  md5:527b9749aed1a43066a7f19b77e21c47
+2020-10-28 17:56:26  [ AWT-EventQueue-0:113071568 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Defect+Fixing&from=auto&to=zh&appid=20201016000590665&salt=1603878986629&sign=527b9749aed1a43066a7f19b77e21c47
+2020-10-28 17:56:27  [ AWT-EventQueue-0:113072241 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Defect Fixing","dst":"\u7f3a\u9677\u4fee\u590d"}]}
+2020-10-28 17:56:27  [ AWT-EventQueue-0:113072242 ] - [ INFO ]  trans_result:Trans_Result{dst='缺陷修复', src='Defect Fixing'}
+2020-10-28 17:56:33  [ AWT-EventQueue-0:113078101 ] - [ INFO ]  sign:20201016000590665Product configuration1603878993164HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:33  [ AWT-EventQueue-0:113078102 ] - [ INFO ]  md5:662b93e506d38c87a29736586fafa664
+2020-10-28 17:56:33  [ AWT-EventQueue-0:113078102 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=Product+configuration&from=auto&to=zh&appid=20201016000590665&salt=1603878993164&sign=662b93e506d38c87a29736586fafa664
+2020-10-28 17:56:33  [ AWT-EventQueue-0:113078652 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"Product configuration","dst":"\u4ea7\u54c1\u914d\u7f6e"}]}
+2020-10-28 17:56:33  [ AWT-EventQueue-0:113078653 ] - [ INFO ]  trans_result:Trans_Result{dst='产品配置', src='Product configuration'}
+2020-10-28 17:56:40  [ AWT-EventQueue-0:113085390 ] - [ INFO ]  sign:20201016000590665System configuration1603879000452HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:40  [ AWT-EventQueue-0:113085391 ] - [ INFO ]  md5:bf1835e1edb0f68b8601b9e162d80343
+2020-10-28 17:56:40  [ AWT-EventQueue-0:113085391 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=System+configuration&from=auto&to=zh&appid=20201016000590665&salt=1603879000452&sign=bf1835e1edb0f68b8601b9e162d80343
+2020-10-28 17:56:41  [ AWT-EventQueue-0:113085992 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"System configuration","dst":"\u7cfb\u7edf\u914d\u7f6e"}]}
+2020-10-28 17:56:41  [ AWT-EventQueue-0:113085993 ] - [ INFO ]  trans_result:Trans_Result{dst='系统配置', src='System configuration'}
+2020-10-28 17:56:48  [ AWT-EventQueue-0:113093214 ] - [ INFO ]  sign:20201016000590665UT case design and execution1603879008277HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:48  [ AWT-EventQueue-0:113093214 ] - [ INFO ]  md5:101f92b82eeeeb440411918f2e51fdda
+2020-10-28 17:56:48  [ AWT-EventQueue-0:113093215 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=UT+case+design+and+execution&from=auto&to=zh&appid=20201016000590665&salt=1603879008277&sign=101f92b82eeeeb440411918f2e51fdda
+2020-10-28 17:56:49  [ AWT-EventQueue-0:113094266 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"UT case design and execution","dst":"UT\u6848\u4f8b\u8bbe\u8ba1\u4e0e\u6267\u884c"}]}
+2020-10-28 17:56:49  [ AWT-EventQueue-0:113094267 ] - [ INFO ]  trans_result:Trans_Result{dst='UT案例设计与执行', src='UT case design and execution'}
+2020-10-28 17:56:55  [ AWT-EventQueue-0:113100911 ] - [ INFO ]  sign:20201016000590665UT defect fix1603879015974HcGhEQkE82otdClMM6xu
+2020-10-28 17:56:55  [ AWT-EventQueue-0:113100912 ] - [ INFO ]  md5:550e6c3526dc9ded097cd48f982fa530
+2020-10-28 17:56:55  [ AWT-EventQueue-0:113100912 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=UT+defect+fix&from=auto&to=zh&appid=20201016000590665&salt=1603879015974&sign=550e6c3526dc9ded097cd48f982fa530
+2020-10-28 17:56:56  [ AWT-EventQueue-0:113101301 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"UT defect fix","dst":"\u8d85\u58f0\u6ce2\u63a2\u4f24\u7f3a\u9677\u4fee\u590d"}]}
+2020-10-28 17:56:56  [ AWT-EventQueue-0:113101301 ] - [ INFO ]  trans_result:Trans_Result{dst='超声波探伤缺陷修复', src='UT defect fix'}

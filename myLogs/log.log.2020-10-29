@@ -1,0 +1,25 @@
+2020-10-29 10:21:30  [ AWT-EventQueue-0:172175342 ] - [ INFO ]  sign:20201016000590665policy1603938090405HcGhEQkE82otdClMM6xu
+2020-10-29 10:21:30  [ AWT-EventQueue-0:172175347 ] - [ INFO ]  md5:49e04944db829e9bface0b8718895c05
+2020-10-29 10:21:30  [ AWT-EventQueue-0:172175347 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=policy&from=auto&to=zh&appid=20201016000590665&salt=1603938090405&sign=49e04944db829e9bface0b8718895c05
+2020-10-29 10:21:30  [ AWT-EventQueue-0:172175874 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"policy","dst":"\u653f\u7b56"}]}
+2020-10-29 10:21:30  [ AWT-EventQueue-0:172175875 ] - [ INFO ]  trans_result:Trans_Result{dst='政策', src='policy'}
+2020-10-29 10:21:53  [ AWT-EventQueue-0:172198925 ] - [ INFO ]  sign:20201016000590665proposal1603938113988HcGhEQkE82otdClMM6xu
+2020-10-29 10:21:53  [ AWT-EventQueue-0:172198927 ] - [ INFO ]  md5:2d637b211c04d72de8e88a317e8bb1f1
+2020-10-29 10:21:53  [ AWT-EventQueue-0:172198927 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=proposal&from=auto&to=zh&appid=20201016000590665&salt=1603938113988&sign=2d637b211c04d72de8e88a317e8bb1f1
+2020-10-29 10:21:54  [ AWT-EventQueue-0:172199468 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"proposal","dst":"\u5efa\u8bae"}]}
+2020-10-29 10:21:54  [ AWT-EventQueue-0:172199469 ] - [ INFO ]  trans_result:Trans_Result{dst='建议', src='proposal'}
+2020-10-29 14:21:57  [ AWT-EventQueue-0:186601940 ] - [ INFO ]  sign:20201016000590665onreadystatechange1603952517003HcGhEQkE82otdClMM6xu
+2020-10-29 14:21:57  [ AWT-EventQueue-0:186601942 ] - [ INFO ]  md5:f071f212f27dbc66aeccfc8ac76f9300
+2020-10-29 14:21:57  [ AWT-EventQueue-0:186601942 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=onreadystatechange&from=auto&to=zh&appid=20201016000590665&salt=1603952517003&sign=f071f212f27dbc66aeccfc8ac76f9300
+2020-10-29 14:21:57  [ AWT-EventQueue-0:186602773 ] - [ INFO ]  jsonResult:{"from":"epo","to":"zh","trans_result":[{"src":"onreadystatechange","dst":"\u6539\u53d8"}]}
+2020-10-29 14:21:57  [ AWT-EventQueue-0:186602774 ] - [ INFO ]  trans_result:Trans_Result{dst='改变', src='onreadystatechange'}
+2020-10-29 14:22:12  [ AWT-EventQueue-0:186617323 ] - [ INFO ]  sign:20201016000590665on ready state change1603952532386HcGhEQkE82otdClMM6xu
+2020-10-29 14:22:12  [ AWT-EventQueue-0:186617324 ] - [ INFO ]  md5:125adb2d925a7fb3e5a806b0a5d6142a
+2020-10-29 14:22:12  [ AWT-EventQueue-0:186617324 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=on+ready+state+change&from=auto&to=zh&appid=20201016000590665&salt=1603952532386&sign=125adb2d925a7fb3e5a806b0a5d6142a
+2020-10-29 14:22:12  [ AWT-EventQueue-0:186617794 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"on ready state change","dst":"\u8bba\u5c31\u7eea\u72b6\u6001\u53d8\u5316"}]}
+2020-10-29 14:22:12  [ AWT-EventQueue-0:186617794 ] - [ INFO ]  trans_result:Trans_Result{dst='论就绪状态变化', src='on ready state change'}
+2020-10-29 17:19:38  [ AWT-EventQueue-0:197263844 ] - [ INFO ]  sign:20201016000590665enterprise1603963178907HcGhEQkE82otdClMM6xu
+2020-10-29 17:19:38  [ AWT-EventQueue-0:197263849 ] - [ INFO ]  md5:1d12c1a96c2b355d171477a0cbc5757e
+2020-10-29 17:19:38  [ AWT-EventQueue-0:197263851 ] - [ INFO ]  uri:http://api.fanyi.baidu.com/api/trans/vip/translate?q=enterprise&from=auto&to=zh&appid=20201016000590665&salt=1603963178907&sign=1d12c1a96c2b355d171477a0cbc5757e
+2020-10-29 17:19:39  [ AWT-EventQueue-0:197264189 ] - [ INFO ]  jsonResult:{"from":"en","to":"zh","trans_result":[{"src":"enterprise","dst":"\u4f01\u4e1a"}]}
+2020-10-29 17:19:39  [ AWT-EventQueue-0:197264190 ] - [ INFO ]  trans_result:Trans_Result{dst='企业', src='enterprise'}
